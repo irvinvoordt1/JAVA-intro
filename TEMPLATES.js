@@ -31,4 +31,5 @@ while  (isSunk == false) {
 var stats= "you took "+ guesses +  "guesses to sink the battleship which means"
  + " which your shooting accuracy was" + 3/guesses; alert (stats);
 
-var WelcomeSign= alert(")
+var WelcomeSign= alert("");
+var clickBanner = Math.random, Math.floor, 
