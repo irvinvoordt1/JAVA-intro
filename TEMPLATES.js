@@ -33,3 +33,12 @@ var stats= "you took "+ guesses +  "guesses to sink the battleship which means"
 
 var WelcomeSign= alert("");
 var clickBanner = Math.random, Math.floor, 
+function dogYears (dogName, years){
+  var years = age + 7;
+  var brothersDog = "Sancho";
+   var myDog = "Fido";
+   var mothersDog = "Marian";
+  console.log(dogName + " is " + years + " years old !");
+}
+dogYears(myDog, 11);
+dogYears(mothersDog, 9); dogYears(brothersDog, 6);
